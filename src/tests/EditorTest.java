@@ -71,7 +71,7 @@ public class EditorTest extends TestCase {
 
 		unDoc.sumarContenido(unaFrase);
 
-		assertEquals("hola mundo", unaFrase.contenidoComoString());
+		assertEquals("hola mundo tontoooooo", unaFrase.contenidoComoString());
 
 		assertEquals("hola mundo", unDoc.contenidoComoString());
 	}
